@@ -38,4 +38,7 @@ There are two api point that I created to fetch data from wikibase[Wikidata]
 }
 ```
 ### [SEE DEMO](https://wikidata-api.netlify.app/)
+
+![image](https://user-images.githubusercontent.com/49122753/129407744-23df9374-3959-4d46-bc81-6d151a1927da.png)
+
 ---
